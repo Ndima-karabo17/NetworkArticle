@@ -1,0 +1,99 @@
+html{
+font-size: 65%
+}
+body{
+  font-family: 'Baskervville', serif;
+  color: rgb(223, 220, 217);
+  background-color: rgb(20, 13, 38);
+  
+}
+.social-icons{
+    font-size: 3rem;
+    width: 50%;
+}
+.topic{
+    display: flex;
+}
+.author{
+    width: 50%;
+    font: bold;
+    font-size: x-large;
+    
+}
+.pubdate{
+    color:gray;
+    font-size: medium;
+}
+.first-heading{
+     font-family:'Courier New', Courier, monospace;
+     text-align: center;
+      padding-left: 400px;
+      font-size: 30px;
+      color:rgba(87, 231, 123, 0.964);
+
+}
+.heading{
+    background-color: rgb(37, 29, 44);
+    display: flex;
+ }
+
+.logo{
+    width: 90px;
+    height: 80px;
+   
+}
+
+.defination::first-letter{
+    font-size: 5rem;
+    color: blueviolet;
+    float: left;
+    margin-right: 0.5rem;
+}
+.text
+{
+   grid-column: 2/3;
+   font-size: 2rem;
+   letter-spacing: 0.6px;
+   column-width: 25rem;
+   text-align: justify;
+   width: 70%;
+   height: 100%;
+   margin-left: 200px;
+ 
+}
+
+.quote {
+  color: #15e1f3;
+  font-size: 1.4REM;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+}
+
+.quote::before {
+  content: '" ';
+}
+
+.quote::after {
+  content: ' "';
+}
+@media screen and(max-width: 700px) {
+    body{
+        color: white;
+    }
+    html{
+        color: white;
+    }
+}
+.recording{
+     width: 300px;
+    height: 54px;
+
+}
+.footername{
+    display: flex;
+   font-size: medium;
+    align-items: center;
+    text-align: center;
+    
+
+}

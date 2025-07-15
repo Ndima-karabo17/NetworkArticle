@@ -1,0 +1,63 @@
+1.UNDERSTANDING WI-FI USB DONGLES
+
+A WI-FI USB dongle also known as a WI-FI adaptapter, is a small device
+that connects to a computer or other device via a UBS port to provide wireless
+internet connectivity.It's essentially a wireless network adaptapter that alllows 
+devices without built-in WI-FI capabilities to connect to available WI-FI networks.
+If your laptop, desktop, or other device doesn't have a built-in Wi-Fi card, a Wi-Fi
+USB dongle allows you to connect to wireless networks. It transmits and receives Wi-Fi 
+signals, allowing your device to communicate with nearby Wi-Fi routers. 
+
+2. SECURE COLLABORATION ACROSS THE INTERNET
+
+Secure collaboration across the internet involves using platforms and practices that protect
+sensitive information during online teamwork. This includes employing encrypted communication channels,
+secure file sharing, and multi-factor authentication, while also educating users on safe online practices. 
+Using tools that encrypt data both in transit and at rest to prevent unauthorized access. Utilizing platforms
+ with features like digital rights management, access controls, and audit trails to protect sensitive documents.
+ Choosing platforms designed with security in mind, such as those offering end-to-end encryption and robust access
+ controls. 
+
+ 3.TYPES AND FUNCTIONS OF NETWORK AND WIRELESS CONNECTION
+
+ Wireless networks serve multiple crucial functions, including: Data Exchange: Facilitate the transmission and sharing
+ of data between devices without needing physical connections. Mobility: Enable devices to connect and communicate while
+ on the move, providing flexibility and supporting mobile workforces.
+
+ *LAN (Local Area Network) – 
+Systems connected in a small network like in a building or a small office
+It is inexpensive
+It uses Ethernet or Token-ring technology
+Two or more personal computers can be connected through wires or cables acting as nodes
+Transfer of data is fast and is highly score
+
+*PAN (Personal Area Network) – 
+The smallest computer network
+Devices may be connected through Bluetooth or other infra-red enables devices
+It has a connectivity range of upto 10 metres
+It covers an area of upto 30 feet
+Personal devices belonging to a single person can be connected to each other using PAN
+
+*MAN (Metropolitan Area Network) – 
+A network that can be connected within a city, for example, cable TV Connection
+It can be in the form of Ethernet, ATM, Token-ring and FDDI
+It has a higher range
+This type of network can be used to connect citizens with the various Organisations
+
+*WAN (Wide Area Network) – 
+A network which covers over a country or a larger range of people
+Telephonic lines are also connected through WAN
+Internet is the biggest WAN in the world
+Mostly used by Government Organisations to manage data and information
+
+*VPN (Virtual Private Network): – 
+A network which is constructed by using public wires to connect to a private network
+There are a number of systems which enable you to create networks using the Internet as a medium for transporting data
+These systems use encryptions and other security mechanisms to ensure only authorised users can access
+
+4. DESCRIPTION OF THE COMMMON FUNCTIONALITY OF SERVER NETWORKS
+
+Server networks handle a variety of functions essential to modern computing, primarily focusing on 
+centralized data management and resource sharing within a network. These functions include data storage
+and retrieval, managing network traffic, providing services like web hosting and email, and ensuring security
+and efficient resource allocation.
